@@ -6,3 +6,5 @@ The project is written in Python for Processing 3. Hills are modeled using bivar
 
 Check out a [demo video!](https://vimeo.com/282962530)
 
+![Contour](contour.png)
+
